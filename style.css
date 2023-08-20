@@ -76,7 +76,6 @@ body {
 
 #links>h4:hover {
     color: #E5813E;
-    /* background-color: #F3C77C; */
 }
 
 #page1 {
@@ -91,7 +90,6 @@ body {
 }
 
 #page1>h1 {
-    font-size: 51.5vh;
     color: #F3C77C;
     display: flex;
     font-weight: 900;
@@ -105,6 +103,7 @@ body {
     font-weight: 900;
     line-height: -1;
     color: #F3C77C;
+    font-size: 100.5vh;
 }
 
 
