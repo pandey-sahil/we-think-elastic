@@ -1,7 +1,7 @@
 # <h1 size="80" align="center">We Think Elastic</h1>
 
 <p align="center">
-  <img width="495" height="189" src="./res/wethinkelastic.png">
+  <img width="495" height="189" src="res/wethinkelastic.png">
 </p>
 <h4>This is the clone of the website https://wethinkelastic.com/</h4>
 
